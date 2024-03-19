@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-tookit/static/css/main.7fd87097.css",
+    "main.js": "/redux-tookit/static/js/main.473610ce.js",
+    "index.html": "/redux-tookit/index.html",
+    "main.7fd87097.css.map": "/redux-tookit/static/css/main.7fd87097.css.map",
+    "main.473610ce.js.map": "/redux-tookit/static/js/main.473610ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fd87097.css",
+    "static/js/main.473610ce.js"
+  ]
+}
